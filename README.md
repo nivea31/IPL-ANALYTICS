@@ -30,6 +30,8 @@ This project is a comprehensive data analytics platform for exploring and analyz
 - Offer predictive and comparative tools for teams and players
 - Present stats in a clean, accessible format for both casual and serious cricket followers
 
+---
+
 # Screenshots
 
 ### Home Dashboard
