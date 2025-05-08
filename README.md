@@ -17,8 +17,8 @@ This project is a comprehensive data analytics platform for exploring and analyz
 # Tech Stack
 
 - **Frontend**: Streamlit
-- **Data Processing**: Pandas, NumPy
-- **Visualization**: Plotly, Matplotlib, Seaborn
+- **Data Processing**: Pandas
+- **Visualization**: Plotly
 - **Deployment**: Local / Streamlit Cloud
 - **Data Source**: IPL dataset [Self Developed]
 
